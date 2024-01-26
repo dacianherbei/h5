@@ -136,3 +136,46 @@ Our release steps to follow when cutting a new release:
   9. Upload binaries to github (Travis should do this automatically).
   10. Publish the tag and announce it on the mailing list.
   11. Increment the current version and append `~dev`.
+
+
+
+
+
+H5 Notes:
+https://root.cern/contribute/
+
+https://blog.audio-tk.com/2018/09/18/compiling-c-code-in-memory-with-clang/
+
+https://wiki.nervtech.org/doku.php?id=blog:2020:0410_dynamic_cpp_compilation
+
+https://medium.com/@its.me.siddh/modern-c-interview-problems-mutex-condition-variable-3b80c6e8d610
+
+https://climbtheladder.com/low-latency-interview-questions/
+
+https://www.geeksforgeeks.org/cpp-interview-questions/
+
+https://www.google.com/search?q=lock+free+algorithms+c%2B%2B+interview+questions&rlz=1C5CHFA_enCH1014CH1014&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQkxODY5ajBqMTWoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+https://interviewprep.org/atomic-operation-interview-questions/
+
+https://hackr.io/blog/ai-coding-assistants
+
+https://www.interviewbit.com/linux-interview-questions/?sign_up_medium=ib_article_auth_blocker/
+
+https://platform.openai.com/docs/guides/images?context=node
+
+https://openai.com/research/dall-e
+
+https://bootcamp.uxdesign.cc/7-alternatives-to-midjourney-for-creating-ai-generated-images-including-examples-35c4a4c3d5ee
+
+https://diffusionart.co/diffusion-one/
+
+https://www.midjourney.com/auth/signin
+
+https://milanote.com/?utm_source=damilee0923&utm_medium=influencer
+
+https://www.udemy.com/join/login-popup/?next=/course/ios-13-app-development-bootcamp/learn/lecture/16250858#overview
+
+https://www.appbrewery.co/p/ios-course-resources/
+
+
